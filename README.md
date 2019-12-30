@@ -28,4 +28,4 @@ This repository serves as starting point for my Angular based web applications.
 6. Run `npm i`.
 7. Run `ng serve --host 0.0.0.0`.
 8. Navigate to *http://localhost:4200*.
-9. Upon next container initialization, command number 8. will be automatically run.
+9. Upon next container initialization, command number 7. will be automatically run.
